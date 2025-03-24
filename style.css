@@ -19,9 +19,12 @@ button{
     padding: 10px;
     font-family: Pixelify Sans;
     cursor: pointer;
+
 }
 button:hover{
-    background-color: #5a5c5f;
+    background-color: #ffffff;
+    color: #ffffff;
+    transition: 1s;
 }
 html, body {
     margin: 0;
