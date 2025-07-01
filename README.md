@@ -1,8 +1,8 @@
 ## Todo
 
-# features
+### features
 
-# purpose
+### purpose
 
 the purpose of the nezh organisation is to bring all of the nezh and fezh together through a website
 nezh is the meaning of life because there is no meaning of life, only nezh and fezh can survive.
